@@ -2,4 +2,4 @@
 1
 2
 3
-p oddsrisk Conversion from Logistic Odds Ratios to Risk Ratios Use oddsrisk With STATA 19
+p xtoaxaca Longitudinal mean decompositions Use xtoaxaca With STATA 19
