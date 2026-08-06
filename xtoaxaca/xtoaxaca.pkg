@@ -1,0 +1,4 @@
+D 'oddsrisk': Conversion from Logistic Odds Ratios to Risk Ratios Use oddsrisk With STATA 19
+D
+F oddsrisk.ado
+F oddsrisk.hlp
